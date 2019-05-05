@@ -6,3 +6,10 @@ Client Secret: 4aa39530ce184eeb9dd89f6706c0f7c6
 //////
 
 
+OMDB api:
+
+trilogy
+
+
+
+//////
