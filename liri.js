@@ -1,3 +1,4 @@
+// Require npm to link to keys
 require("dotenv").config();
 
 // Require the key.js file
