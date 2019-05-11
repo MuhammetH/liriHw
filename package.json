@@ -1,7 +1,7 @@
 {
-  "name": "liriHw",
+  "name": "lirihw",
   "version": "1.0.0",
-  "description": "",
+  "description": "LIRI will search Spotify for songs, Bands in Town for concerts, and OMDB for movies.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -18,6 +18,10 @@
   },
   "homepage": "https://github.com/MuhammetH/liriHw#readme",
   "dependencies": {
-    "node-spotify-api": "^1.1.1"
-  }
+    "fs": "0.0.1-security",
+    "moment": "^2.24.0",
+    "node-spotify-api": "^1.1.1",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {}
 }
