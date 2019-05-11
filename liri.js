@@ -253,7 +253,7 @@ function runLiri() {
           var info = JSON.parse(body);
           console.log("Title: " + info.Title);
           console.log("Release Year: " + info.Year);
-          console.log("OMDB Rating: " + info.Ratings[0].Value);
+          console.log("IMDB Rating: " + info.Ratings[0].Value);
           console.log("Rating: " + info.Ratings[1].Value);
           console.log("Country: " + info.Country);
           console.log("Language: " + info.Language);
